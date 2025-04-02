@@ -1,0 +1,7 @@
+#ifndef CREDENTIALS_H
+#define CREDENTIALS_H
+
+#define BLYNK_TEMPLATE_ID "TMPL6F9SbQBJO"
+#define BLYNK_TEMPLATE_NAME "nhom11"
+
+#endif
