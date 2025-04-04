@@ -1,0 +1,7 @@
+#ifndef CREDENTIALS_H
+#define CREDENTIALS_H
+
+#define BLYNK_TEMPLATE_ID "TMPL65DK4CDng"
+#define BLYNK_TEMPLATE_NAME "IoT"
+
+#endif
